@@ -1,0 +1,7 @@
+1. cấu trúc dữ liệu và giải thuật
+2. phân tích- thiết kế csdl
+
++ CSDL
++QT CSDL: INF, 2NF, 3NF, Select, invert, update
+
+3. OOP
