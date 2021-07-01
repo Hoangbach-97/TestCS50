@@ -6,6 +6,6 @@
 
 3. OOP
 
-4. Hello CS50
+4. Hello CS50+Hello girl
 5. Hello Hoang Xuan Bach and say hello
 
